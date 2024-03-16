@@ -75,6 +75,8 @@ ERROS:
 
     ![alt text](image.png)
 
+    Por conta desse erro, decidi não publicar a parte do CI/CD, pois acho que a ferramenta Terraform e AWS estão com alguma inconsistência e obtive erros ao tentar também. 
+
 
 Bom time, infelizmente esse teste chega ao final para mim, fui extremamente incrível usar essa ferramenta nova para implementar esse cenário para vocês, que não pude terminar por completo por falta de tempo e os famosos erros inesperados. Mas acredito que tudo ficou bem claro e simples de entender. Se tiverem duvidas, é só entrar em contato.
 
