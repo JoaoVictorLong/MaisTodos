@@ -72,6 +72,7 @@ ERROS:
     Resolvido: faltava um parâmetro no arquivo.
     ERRO: O banco de dados está sendo criado, mas nao aparece na plataforma web da AWS, estou tentando descobrir o porque, mas só parece um erro da AWS ou da conta gratuita que estou usando.
     Na imagem abaixo vao conseguir ver o erro, o banco está criado como mostrado no console a direita, mas não aparece na plataforma e também está apresentando erro no CloudShell:
+    Resolvido: Fiz uma alteração no codigo que achei na comunidade do Github e a instancia do banco subiu.
     
 ![alt text](image.png)
 
