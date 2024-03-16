@@ -72,8 +72,8 @@ ERROS:
     Resolvido: faltava um parâmetro no arquivo.
     ERRO: O banco de dados está sendo criado, mas nao aparece na plataforma web da AWS, estou tentando descobrir o porque, mas só parece um erro da AWS ou da conta gratuita que estou usando.
     Na imagem abaixo vao conseguir ver o erro, o banco está criado como mostrado no console a direita, mas não aparece na plataforma e também está apresentando erro no CloudShell:
-
-    ![alt text](image.png)
+    
+![alt text](image.png)
 
     Por conta desse erro, decidi não publicar a parte do CI/CD, pois acho que a ferramenta Terraform e AWS estão com alguma inconsistência e obtive erros ao tentar também. 
 
