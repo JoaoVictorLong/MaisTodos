@@ -6,6 +6,8 @@ Para iniciar o projeto, criei uma maquina Debian 12 e fiz a instalação do Dock
 
 AMI ID usado: ami-058bd2d568351da34
 
+###################################################################################################
+
 Docker:
 
 for pkg in docker.io docker-doc docker-compose podman-docker containerd runc; do sudo apt-get remove $pkg; done;
@@ -29,6 +31,8 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
 docker --versioin;
 
+###################################################################################################
+
 Terrafor:
 
 sudo apt-get update && sudo apt-get install -y gnupg software-properties-common;
@@ -48,7 +52,7 @@ AWSCLI:
 apt-get install awscli
 
 
-#############################################
+###################################################################################################
 
 Logo apos a instalação dessas aplicações, comecei a configuração das demais.
 
